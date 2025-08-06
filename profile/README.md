@@ -52,7 +52,7 @@ If you’d like to contribute, suggest improvements, or support us — you're mo
 
 ### 📜 Code of Conduct
 
-We expect everyone engaging with Milkshake Collective to follow our [Code of Conduct](CODE_OF_CONDUCT.txt).
+We expect everyone engaging with Milkshake Collective to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 > 🥤 Our community is open, inclusive, and harassment-free.  
 > We welcome contributors of all skill levels and backgrounds.  
