@@ -47,3 +47,13 @@ We believe in **open development**, meaningful tools, and fun coding.
 If you’d like to contribute, suggest improvements, or support us — you're more than welcome!
 
 > 🍦 *Built with passion by developers who love clean code and cold milkshakes.*
+
+---
+
+### 📜 Code of Conduct
+
+We expect everyone engaging with Milkshake Collective to follow our [Code of Conduct](CODE_OF_CONDUCT.txt).
+
+> 🥤 Our community is open, inclusive, and harassment-free.  
+> We welcome contributors of all skill levels and backgrounds.  
+> Respect each other, keep it kind, and enjoy the mix.
